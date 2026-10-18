@@ -23,9 +23,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/followers/PALPANDI-P?label=Followers&style=flat-square&logo=github&color=2563EB&labelColor=0F172A" alt="Followers"/>
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPALPANDI-P&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&color=7C3AED&labelColor=0F172A" alt="Total public repositories"/>
-    <img src="https://komarev.com/ghpvc/?username=PALPANDI-P&style=flat-square&color=2563EB&labelColor=0F172A&label=PROFILE+VIEWS" alt="Profile views"/>
     <img src="https://img.shields.io/github/stars/PALPANDI-P?style=flat-square&logo=github&label=Stars%20(profile)&color=F59E0B&labelColor=0F172A" alt="Stars"/>
   </p>
 
